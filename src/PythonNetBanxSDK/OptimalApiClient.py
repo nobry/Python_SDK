@@ -4,7 +4,7 @@ Created on 30-Jan-2015
 @author: Asawari.Vaidya
 '''
 import json
-import urllib.error
+import urllib2, urllib
 import urllib3.util
 import urllib3.exceptions
 from bin.Environment import Environment
